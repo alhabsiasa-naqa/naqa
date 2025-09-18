@@ -1,6 +1,6 @@
 {
   "versionCode": 3,
   "versionName": "1.0.3",
-  "apkUrl": "https://github.com/alhabsiasa-naqa/naqa/blob/main/app-release.apk",
+  "apkUrl": "https://github.com/alhabsiasa-naqa/naqa/releases/download/v1.3/app-release.apk",
   "releaseNotes": "- Bug fixes and performance improvements.\\n- New feature added."
 }
